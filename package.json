@@ -1,5 +1,8 @@
 {
     "scripts": {
         "build": "npx vite"
+    },
+    "dependencies": {
+        "mathjs": "^13.0.0"
     }
 }
