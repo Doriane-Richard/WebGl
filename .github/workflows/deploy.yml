@@ -18,8 +18,5 @@ jobs:
         with:
           node-version: '14'
 
-      - name: Install dependencies
-        run: npm install
-
-      - name: Start Vite Development Server
-        run: npx vite
+      - name: Build project
+        run: npm run build

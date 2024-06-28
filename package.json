@@ -1,5 +1,5 @@
 {
     "scripts": {
-        "build": "vite build"
+        "build": "npx vite"
     }
 }
