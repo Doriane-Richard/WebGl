@@ -3,6 +3,8 @@
         "build": "npx vite"
     },
     "dependencies": {
-        "mathjs": "^13.0.0"
+        "mathjs": "^13.0.0",
+        "three": "^0.165.0",
+        "tree": "^0.1.3"
     }
 }
